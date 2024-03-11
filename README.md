@@ -4,6 +4,6 @@
 - Versionamento Local
 - -Versionamento Remoto
 
-"[](img.png)"
+![](img.png)
 
 **Curso Provas de TI**
