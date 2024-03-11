@@ -2,7 +2,7 @@
 ## _Curso focado em concursos_
 
 - Versionamento Local
-- -Versionamento Remoto
+- Versionamento Remoto
 
 ![](img.png)
 
